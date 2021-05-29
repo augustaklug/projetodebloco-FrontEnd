@@ -1,4 +1,7 @@
 # projetodebloco
+>Projeto desenvolvido no bloco de Desenvolvimento Front-End - Instituto Infnet, usando Vue.js
+>
+>[LIVE DEMO](https://projeto-de-bloco.netlify.app/)
 
 ## Project setup
 ```
